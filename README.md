@@ -1,4 +1,4 @@
-# Adaptation of Code for Whitebox Tentacle Shield with Atlas Probes and Arduino
+# Adaptation of Code for Whitebox Tentacle Shield with Atlas Probes and Arduino and SD logging
 The goal of this project is to replicate portions of the capabilities of the sensor described by [Compas and Wade (2018)](https://theoryandpractice.citizenscienceassociation.org/articles/10.5334/cstp.124/). 
 
 We are using an Arduino Uno and a [Whitebox T2 Mini MkII for Arduino, model T2.21 BNC edition](https://www.whiteboxes.ch/docs/tentacle/t2-mkII/#/?id=whitebox-t2-mini-mkii-for-arduino), along with Atlas RTD (temperature), EC (conductivity), pH, and DO (dissolved oxygen) probes.
